@@ -444,7 +444,7 @@ Thanks to Linux kernel developers and laptop vendors that expose battery thresho
 
 Your Name
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/denziljosteve
 
 ---
 
