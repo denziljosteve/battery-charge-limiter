@@ -124,16 +124,9 @@ battery-charge-limiter/
 │   └── status.sh
 │
 ├── systemd/
-│   └── battery-limit.service
-│
-└── docs/
-    ├── INSTALLATION.md
-    ├── CONFIGURATION.md
-    ├── TROUBLESHOOTING.md
-    ├── SUPPORTED-HARDWARE.md
-    └── FAQ.md
-```
+|   └── battery-limit.service
 
+```
 ---
 
 # Installation
@@ -442,7 +435,7 @@ Thanks to Linux kernel developers and laptop vendors that expose battery thresho
 
 # Author
 
-Your Name
+Denzil Josteve Fernandes
 
 GitHub: https://github.com/denziljosteve
 

@@ -1,0 +1,11 @@
+[Unit]
+Description=Battery Charge Limiter
+After=multi-user.target
+
+[Service]
+Type=oneshot
+ExecStart=/usr/local/bin/battery-limit.sh
+RemainAfterExit=yes
+
+[Install]
+WantedBy=multi-user.target
